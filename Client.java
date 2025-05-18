@@ -9,7 +9,7 @@ public class Client {
     // Creates a client with a single terminal. The provided terminal cannot be null
     public Client(String name, int taxNumber, Terminal term) { 
         /* 
-        Also creates a friend list that is initially empty and tthe client cannot be friend with itself.
+        Also creates a friend list that is initially empty and the client cannot be friend with itself.
         ... 
         */ 
 }
